@@ -156,19 +156,20 @@ footer * {
 
 @media (max-width: 550px) {
     #table-holder {
-        width: 95%;
+        width: 100%;
     }
 
     table td {
         font-size: 13px;
     }
+
+    footer #sources-div {
+        display: block;
+        text-align: center;
+    }
 }
 
 @media (max-width: 370px) {
-    #table-holder {
-        width: 100%;
-    }
-
     table td {
         font-size: 12px;
     }

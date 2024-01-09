@@ -621,11 +621,11 @@ const words = [
     },
     {
         word: "Utløsning",
-        explanation: "EEXXPPLLAANNAATTIIOONN"
+        explanation: "Utløsning er når det kommer sæd ut av penis."
     },
     {
         word: "Utvikle",
-        explanation: "Utløsning er når det kommer sæd ut av penis."
+        explanation: "Utvikle vil si å lage noe nytt eller forbedre noe man har fra før."
     },
     {
         word: "Vannkraftverk",
@@ -633,11 +633,11 @@ const words = [
     },
     {
         word: "Vannløselige hormoner",
-        explanation: "EEXXPPLLAANNAATTIIOONN"
+        explanation: "Vannløselige hormoner er hormoner som ikke kan gli gjennom cellemembranen, men må feste seg til reseptorer i cellemembranen."
     },
     {
         word: "Vannløselige stoffer",
-        explanation: "Vannløselige hormoner er hormoner som ikke kan gli gjennom cellemembranen, men må feste seg til reseptorer i cellemembranen."
+        explanation: "Vannløselige stoffer er stoffer som løser seg best i vann."
     },
     {
         word: "Varmekraftverk",

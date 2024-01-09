@@ -124,10 +124,23 @@ footer {
 
 footer h2 {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 8px;
 }
 
-footer div {
+footer .tips-me {
+    text-align: center;
+}
+
+#mengdeOrdSet {
+    margin-bottom: 15px;
+}
+
+footer #lolz {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+footer #sources-div {
     display: flex;
     justify-content: space-around;
 }
@@ -136,7 +149,27 @@ footer * {
     color: white;
 }
 
-
 .hidden {
     display: none;
+}
+
+
+@media (max-width: 550px) {
+    #table-holder {
+        width: 95%;
+    }
+
+    table td {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 370px) {
+    #table-holder {
+        width: 100%;
+    }
+
+    table td {
+        font-size: 12px;
+    }
 }

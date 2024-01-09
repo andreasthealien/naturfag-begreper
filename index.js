@@ -676,6 +676,10 @@ const words = [
         explanation: "Ytterelektroner er elektroner som ligger ytterst rundt et atom."
     },
     {
+        word: "Østrogen",
+        explanation: "Østrogen er ansvarlig for at jenter utvikler seg til kvinner med kvinnelige former, og østrogen er sterkt relatert til befruktning."
+    },
+    {
         word: "Åtteregelen",
         explanation: "Åtteregelen sier at atomene blir særlig stabile når de har åtte elektroner i ytterste skall. Det får de ved å dele på eller gi fra seg eller ta opp elektroner."
     }

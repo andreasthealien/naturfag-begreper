@@ -600,6 +600,10 @@ const words = [
         explanation: "Teknologi er et samlebegrep for utvikling og bruk av redskaper, metoder, maskiner og teknikker som skal hjelpe oss mennesker å løse en oppgave."
     },
     {
+        word: "Testosteron",
+        explanation: "Testosteron er et hormon som finnes både hos menn og kvinner. Menn har mye høyere mengder enn kvinner, og testosteron er det viktigste mannlige kjønnshormonet. Hos menn forårsaker testosteron kroppsbehåring, dyp stemme og sterke muskler. Riktig mengde testosteron i kroppen holder sexlysten på et normalt nivå."
+    },
+    {
         word: "Tilbakekobling",
         explanation: "Tilbakekobling er når en faktor påvirker en annen faktor, som så påvirker den første faktoren igjen."
     },

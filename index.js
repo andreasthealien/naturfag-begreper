@@ -540,7 +540,7 @@ const words = [
         explanation: "Seksuelt overførbare infeksjoner er infeksjoner som smitter ved seksuell kontakt."
     },
     {
-        word: "Sentralnervesystemet",
+        word: "Sentralnervesystemet/sentrale nervesystemet",
         explanation: "Sentralnervesystemet består av hjernen og ryggmargen."
     },
     {

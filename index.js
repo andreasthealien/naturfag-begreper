@@ -460,6 +460,10 @@ const words = [
         explanation: "Positive ioner er atomer som har færre elektroner enn protoner."
     },
     {
+        word: "Progesteron",
+        explanation: "Progesteron stopper veksten av slimhinnen og påvirker dannelse av kjertler som gir et godt grunnlag for at et befruktet egg skal kunne feste seg og vokse i livmoren."
+    },
+    {
         word: "Prevensjon",
         explanation: "Prevensjon er middel man kan bruke for å unngå graviditet og i noen tilfeller kjønnssykdommer."
     },

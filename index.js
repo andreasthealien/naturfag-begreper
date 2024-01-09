@@ -272,6 +272,10 @@ const words = [
         explanation: "Hormonproduserende kjertler er organer eller vev som produserer hormoner."
     },
     {
+        word: "Hormonsystemet",
+        explanation: "Hormonsystemet er det langsomme signalsystemet i kroppen. Hormonsystemet bruker blodbanen i kroppen for å sende ut hormoner til cellene, for å skape et mest mulig stabilt miljø, slik at cellene, og kroppen vår, kan fungere optimalt. ​Noen av endringene hormonene forårsaker kan man merke i løpet av noen minutter."
+    },
+    {
         word: "Hormonreseptorer",
         explanation: "Hormonreseptorer er mottakere for hormon på en celle."
     },

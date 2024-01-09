@@ -8,6 +8,10 @@ const words = [
         explanation: "Å ta opp noe. F.eks. en svamp absorberer vann."
     },
     {
+        word: "Adrenalin",
+        explanation: "Adrenalin er et såkalt stresshormon, som utskilles i blodet ved hardt fysisk arbeid, emosjonelt stress, sinne, og lavt blodsukker. Den viktigste funksjon er å forsyne musklene med energi, så kroppen blir klar for den stressfylte situasjonen, til «kamp»."
+    },
+    {
         word: "Aksonet",
         explanation: "En utstikker på en nervecelle som kan sende signaler til andre celler. En nervecelle har bare ett akson."
     },
@@ -618,6 +622,10 @@ const words = [
     {
         word: "Transportkanaler",
         explanation: "Transportkanaler er kanaler i cellemembranen som lar noen stoffer komme inn og ut av cellen."
+    },
+    {
+        word: "Tyroksin",
+        explanation: "Tyroksin er et hormon som regulerer kroppens metabolisme, det påvirker hvordan kroppen bruker energi. Det produseres av skjoldbruskkjertelen."
     },
     {
         word: "Uavhengig variabel",
